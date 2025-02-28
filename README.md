@@ -34,5 +34,5 @@ This is a simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaS
 ## 📌 Live Demo
 
 👉 
-[Play the Game][https://chandana439.github.io/rock-paper-scissors-/**](https://chandana439.github.io/rock-paper-scissors-/)
+[Play the Game](https://chandana439.github.io/rock-paper-scissors-/)
 
